@@ -13,7 +13,6 @@ import java.util.List;
 
 @RestController
 @RequestMapping("/api/product")
-
 public class ProductController {
 
     @Autowired
